@@ -1,7 +1,7 @@
 # spring-docker
 
 
-Make sure you have docker on your machine.
+Make sure you have docker, java 8 or greater and maven on your machine.
 
 **step 1**
 ```
