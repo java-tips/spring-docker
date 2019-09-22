@@ -1,6 +1,5 @@
 # spring-docker
 
-/
 
 Make sure you have docker on your machine.
 
