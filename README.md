@@ -1,20 +1,20 @@
 # spring-docker
 
-**step 1**
+/
 
 Make sure you have docker on your machine.
 
-**step 2**
+**step 1**
 ```
 git clone https://github.com/java-tips/spring-docker.git
 ```
 
-**step 3** 
+**step 2** 
 ```
 docker build -t spring-docker .
 ```
 
-**step 4**
+**step 3**
 ```
 docker run -p 8080:8080 spring-docker
 ```
