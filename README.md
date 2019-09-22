@@ -24,4 +24,6 @@ run application in docker.
 docker run -p 8080:8080 spring-docker
 ```
 
+*for future, we can build all with docker-compose
+
 Enjoy it :D
